@@ -1,0 +1,13 @@
+Debug/
+Release/
+*.exe
+*.o
+*.d
+*.a
+*.so
+*.dll
+*.log
+demo
+testPoint
+testLib
+testMatrix
